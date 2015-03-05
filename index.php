@@ -1,3 +1,3 @@
 <?php
-echo 'This is index file. I have made change in this file on morning time 11.'
+echo 'This is new code amit.'
 ?>
